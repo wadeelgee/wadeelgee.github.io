@@ -1,0 +1,11 @@
+TODO for Website
+- Swap around "Who we are" and "What we do" sections
+- Remove "Learn more" buttons. Have one for angrybirds VR to link to the official site.
+- Reduce the size of the welcome page by half. Remove the sidebar part for this. Include link to CV.
+- Add more to the Sidebar. Top Side - Wade Elgee, Game Programmer. Bottom - Wade.Elgee@gmail.com
+- Change the URL?
+
+- What we do -> Welcome / Skills
+- Who we are x2 -> Professional Projects, Personal Projects.
+- Curriculum Vitae (CV) Section? - Unsure.
+- Get in Touch -> Contact Details
